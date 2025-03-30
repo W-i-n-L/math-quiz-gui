@@ -1,7 +1,5 @@
 # 🧮 Math Quiz GUI
 
-![Gameplay Screenshot](./assets/gameplay.png)
-
 A Python Tkinter application for practicing arithmetic.
 
 ## Features
@@ -12,4 +10,4 @@ A Python Tkinter application for practicing arithmetic.
 ## How to Run
 ```bash
 pip install -r requirements.txt  # Only needs `tkinter` (usually pre-installed)
-python math_quiz.py
+python quiz game gui.py
